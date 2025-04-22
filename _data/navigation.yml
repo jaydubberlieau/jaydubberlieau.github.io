@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Verilog Code"
+    url: /verilog code/
+  - title: "Reference"
+    url: /reference/
